@@ -1,0 +1,4 @@
+= redmine_timelog_version_filter
+
+This Redmine plugin allows listing / filtering / sorting for
+issue versions in the timelog.
